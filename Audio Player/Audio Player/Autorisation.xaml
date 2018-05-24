@@ -1,0 +1,19 @@
+﻿<Window x:Name="auto" x:Class="Audio_Player.Autorisation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Audio_Player"
+        mc:Ignorable="d"
+        Title="Authorization" Height="308.07" Width="185.07" Background="#FF8861C1" ResizeMode="NoResize" Icon="res/Users.png">
+    <Grid Margin="0,0,4,1">
+        <Label x:Name="label" Content="Authorization" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="24" Foreground="#DDFFFFFF" />
+        <Label x:Name="label1" Content="Enter login" HorizontalAlignment="Left" Margin="27,52,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="25" Margin="27,77,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Background="White"/>
+        <Label x:Name="label2" Content="Enter password" HorizontalAlignment="Left" Margin="27,105,0,0" VerticalAlignment="Top" Foreground="#DDFFFFFF"/>
+        <PasswordBox x:Name="passwordBox" HorizontalAlignment="Left" Margin="27,131,0,0" VerticalAlignment="Top" Width="120" Background="White"/>
+        <Button x:Name="button" Content="Authorization" IsDefault="True" HorizontalAlignment="Left" Margin="28,172,0,0" VerticalAlignment="Top" Width="119" Click="button_Click"/>
+        <Button x:Name="button1" Content="Registration" HorizontalAlignment="Left" Margin="28,219,0,0" VerticalAlignment="Top" Width="119" Click="button1_Click"/>
+
+    </Grid>
+</Window>

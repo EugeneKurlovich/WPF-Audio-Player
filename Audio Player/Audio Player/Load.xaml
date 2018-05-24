@@ -1,0 +1,18 @@
+﻿<Window x:Class="Audio_Player.Load"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Audio_Player"
+        mc:Ignorable="d"
+          Title="Load" Height="356.549" Width="282.967" ResizeMode="NoResize"
+                Icon="res/Picon.png">
+    <Grid Margin="0,0,16,-1">
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="185" Margin="21,42,0,0" VerticalAlignment="Top" Width="240"/>
+        <Button x:Name="button" Content="Get" HorizontalAlignment="Left" Margin="21,232,0,0" VerticalAlignment="Top" Width="119" Click="button_Click"/>
+        <Label x:Name="label" Content="User Play Lists" HorizontalAlignment="Left" Margin="32,3,0,0" VerticalAlignment="Top" Foreground="#DDB900FF" FontSize="18"/>
+        <Button x:Name="button1" Content="Load" HorizontalAlignment="Left" Margin="145,232,0,0" VerticalAlignment="Top" Width="119" Click="button1_Click"/>
+        <Button x:Name="button2" Content="Delete" HorizontalAlignment="Left" Margin="21,269,0,0" VerticalAlignment="Top" Width="240" Click="button2_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,50 @@
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\Audio Player.exe.config
+e:\Курсач C#\Audio Player\Audio Player\bin\Debug\Audio Player.exe
+e:\Курсач C#\Audio Player\Audio Player\bin\Debug\Audio Player.pdb
+e:\Курсач C#\Audio Player\Audio Player\obj\Debug\MainWindow.g.cs
+e:\Курсач C#\Audio Player\Audio Player\obj\Debug\App.g.cs
+e:\Курсач C#\Audio Player\Audio Player\obj\Debug\Audio Player_MarkupCompile.cache
+e:\Курсач C#\Audio Player\Audio Player\obj\Debug\Audio Player_MarkupCompile.lref
+e:\Курсач C#\Audio Player\Audio Player\obj\Debug\MainWindow.baml
+e:\Курсач C#\Audio Player\Audio Player\obj\Debug\Audio Player.g.resources
+e:\Курсач C#\Audio Player\Audio Player\obj\Debug\Audio_Player.Properties.Resources.resources
+e:\Курсач C#\Audio Player\Audio Player\obj\Debug\Audio Player.csproj.GenerateResource.Cache
+e:\Курсач C#\Audio Player\Audio Player\obj\Debug\Audio Player.exe
+e:\Курсач C#\Audio Player\Audio Player\obj\Debug\Audio Player.pdb
+e:\Курсач C#\Audio Player\Audio Player\obj\Debug\Autorisation.g.cs
+e:\Курсач C#\Audio Player\Audio Player\obj\Debug\Autorisation.baml
+e:\Курсач C#\Audio Player\Audio Player\obj\Debug\MainPlayer.g.cs
+e:\Курсач C#\Audio Player\Audio Player\obj\Debug\MainPlayer.baml
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\MySql.Data.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\MySql.Data.xml
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\bass.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\Bass.Net.dll
+E:\Курсач C#\Audio Player\Audio Player\obj\Debug\Audio Player_Content.g.cs
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\plugins\bassalac.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\plugins\bassflac.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\plugins\bassopus.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\plugins\basswma.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\plugins\basswv.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\plugins\bass_aac.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\plugins\bass_ac3.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\plugins\bass_ape.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\plugins\bass_mpc.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\plugins\bass_tta.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\MaterialDesignColors.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Курсач C#\Audio Player\Audio Player\obj\Debug\App.baml
+E:\Курсач C#\Audio Player\Audio Player\obj\Debug\Load.g.cs
+E:\Курсач C#\Audio Player\Audio Player\obj\Debug\Load.baml
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\EntityFramework.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\EntityFramework.SqlServer.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\System.Data.SQLite.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\EntityFramework.xml
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\EntityFramework.SqlServer.xml
+E:\Курсач C#\Audio Player\Audio Player\bin\Debug\System.Data.SQLite.xml
+E:\Курсач C#\Audio Player\Audio Player\obj\Debug\Save.g.cs
+E:\Курсач C#\Audio Player\Audio Player\obj\Debug\Save.baml
+E:\Курсач C#\Audio Player\Audio Player\obj\Debug\Audio Player.csprojResolveAssemblyReference.cache

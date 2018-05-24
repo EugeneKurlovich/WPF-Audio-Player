@@ -1,0 +1,16 @@
+﻿<Window x:Class="Audio_Player.Save"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Audio_Player"
+        mc:Ignorable="d"
+        Title="Save" Height="135.107" Width="315.957" ResizeMode="NoResize"
+        Icon ="res/Picon.png">
+    <Grid>
+        <Button x:Name="button" Content="Save" HorizontalAlignment="Left" Margin="189,38,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="33" Margin="55,37,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label" Content="Enter Play List Name and click Save:" HorizontalAlignment="Left" Margin="53,10,0,0" VerticalAlignment="Top" Width="211" Foreground="#FF673AB7"/>
+
+    </Grid>
+</Window>

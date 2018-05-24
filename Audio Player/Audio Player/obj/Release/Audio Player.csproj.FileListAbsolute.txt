@@ -1,0 +1,201 @@
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\Audio Player.exe.config
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\bass.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\plugins\bassalac.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\plugins\bassflac.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\plugins\bassopus.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\plugins\basswma.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\plugins\basswv.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\plugins\bass_aac.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\plugins\bass_ac3.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\plugins\bass_ape.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\plugins\bass_mpc.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\plugins\bass_tta.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\Audio Player.exe
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\Audio Player.pdb
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\Bass.Net.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\EntityFramework.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\EntityFramework.SqlServer.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\MaterialDesignColors.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\MaterialDesignThemes.Wpf.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\MySql.Data.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\System.Data.SQLite.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\System.Data.SQLite.EF6.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\System.Data.SQLite.Linq.dll
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\EntityFramework.xml
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\EntityFramework.SqlServer.xml
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\MaterialDesignThemes.Wpf.pdb
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\MaterialDesignThemes.Wpf.xml
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\MySql.Data.xml
+E:\Курсач C#\Audio Player\Audio Player\bin\Release\System.Data.SQLite.xml
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\Audio Player.csprojResolveAssemblyReference.cache
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\Autorisation.g.cs
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\Load.g.cs
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\MainPlayer.g.cs
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\MainWindow.g.cs
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\Save.g.cs
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\App.g.cs
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\Audio Player_Content.g.cs
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\Audio Player_MarkupCompile.cache
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\Audio Player_MarkupCompile.lref
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\App.baml
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\Autorisation.baml
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\Load.baml
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\MainPlayer.baml
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\MainWindow.baml
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\Save.baml
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\Audio Player.g.resources
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\Audio_Player.Properties.Resources.resources
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\Audio Player.csproj.GenerateResource.Cache
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\Audio Player.exe
+E:\Курсач C#\Audio Player\Audio Player\obj\Release\Audio Player.pdb
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\Audio Player.exe.config
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player.exe
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player.pdb
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\bass.dll
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bassalac.dll
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bassflac.dll
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bassopus.dll
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\plugins\basswma.dll
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\plugins\basswv.dll
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bass_aac.dll
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bass_ac3.dll
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bass_ape.dll
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bass_mpc.dll
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bass_tta.dll
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\Audio Player.exe
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\Audio Player.pdb
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\Bass.Net.dll
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\EntityFramework.dll
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\EntityFramework.SqlServer.dll
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\MaterialDesignColors.dll
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\MaterialDesignThemes.Wpf.dll
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\System.Data.SQLite.dll
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\System.Data.SQLite.EF6.dll
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\System.Data.SQLite.Linq.dll
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\EntityFramework.xml
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\EntityFramework.SqlServer.xml
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\MaterialDesignThemes.Wpf.pdb
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\MaterialDesignThemes.Wpf.xml
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\MySql.Data.xml
+F:\Универ\CourseWork\Audio Player\Audio Player\bin\Release\System.Data.SQLite.xml
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player.csprojResolveAssemblyReference.cache
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\Autorisation.g.cs
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\Load.g.cs
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\MainPlayer.g.cs
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\MainWindow.g.cs
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\Save.g.cs
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\App.g.cs
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player_Content.g.cs
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player_MarkupCompile.cache
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player_MarkupCompile.lref
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\App.baml
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\Autorisation.baml
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\Load.baml
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\MainPlayer.baml
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\MainWindow.baml
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\Save.baml
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player.g.resources
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\Audio_Player.Properties.Resources.resources
+F:\Универ\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player.csproj.GenerateResource.Cache
+D:\CourseWork\Audio Player\Audio Player\bin\Release\Audio Player.exe.config
+D:\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player.exe
+D:\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player.pdb
+D:\CourseWork\Audio Player\Audio Player\bin\Release\bass.dll
+D:\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bassalac.dll
+D:\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bassflac.dll
+D:\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bassopus.dll
+D:\CourseWork\Audio Player\Audio Player\bin\Release\plugins\basswma.dll
+D:\CourseWork\Audio Player\Audio Player\bin\Release\plugins\basswv.dll
+D:\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bass_aac.dll
+D:\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bass_ac3.dll
+D:\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bass_ape.dll
+D:\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bass_mpc.dll
+D:\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bass_tta.dll
+D:\CourseWork\Audio Player\Audio Player\bin\Release\Audio Player.exe
+D:\CourseWork\Audio Player\Audio Player\bin\Release\Audio Player.pdb
+D:\CourseWork\Audio Player\Audio Player\bin\Release\Bass.Net.dll
+D:\CourseWork\Audio Player\Audio Player\bin\Release\EntityFramework.dll
+D:\CourseWork\Audio Player\Audio Player\bin\Release\EntityFramework.SqlServer.dll
+D:\CourseWork\Audio Player\Audio Player\bin\Release\MaterialDesignColors.dll
+D:\CourseWork\Audio Player\Audio Player\bin\Release\MaterialDesignThemes.Wpf.dll
+D:\CourseWork\Audio Player\Audio Player\bin\Release\System.Data.SQLite.dll
+D:\CourseWork\Audio Player\Audio Player\bin\Release\System.Data.SQLite.EF6.dll
+D:\CourseWork\Audio Player\Audio Player\bin\Release\System.Data.SQLite.Linq.dll
+D:\CourseWork\Audio Player\Audio Player\bin\Release\EntityFramework.xml
+D:\CourseWork\Audio Player\Audio Player\bin\Release\EntityFramework.SqlServer.xml
+D:\CourseWork\Audio Player\Audio Player\bin\Release\MaterialDesignThemes.Wpf.pdb
+D:\CourseWork\Audio Player\Audio Player\bin\Release\MaterialDesignThemes.Wpf.xml
+D:\CourseWork\Audio Player\Audio Player\bin\Release\MySql.Data.xml
+D:\CourseWork\Audio Player\Audio Player\bin\Release\System.Data.SQLite.xml
+D:\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player.csprojResolveAssemblyReference.cache
+D:\CourseWork\Audio Player\Audio Player\obj\Release\Autorisation.g.cs
+D:\CourseWork\Audio Player\Audio Player\obj\Release\Load.g.cs
+D:\CourseWork\Audio Player\Audio Player\obj\Release\MainPlayer.g.cs
+D:\CourseWork\Audio Player\Audio Player\obj\Release\MainWindow.g.cs
+D:\CourseWork\Audio Player\Audio Player\obj\Release\Save.g.cs
+D:\CourseWork\Audio Player\Audio Player\obj\Release\App.g.cs
+D:\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player_Content.g.cs
+D:\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player_MarkupCompile.cache
+D:\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player_MarkupCompile.lref
+D:\CourseWork\Audio Player\Audio Player\obj\Release\App.baml
+D:\CourseWork\Audio Player\Audio Player\obj\Release\Autorisation.baml
+D:\CourseWork\Audio Player\Audio Player\obj\Release\Load.baml
+D:\CourseWork\Audio Player\Audio Player\obj\Release\MainPlayer.baml
+D:\CourseWork\Audio Player\Audio Player\obj\Release\MainWindow.baml
+D:\CourseWork\Audio Player\Audio Player\obj\Release\Save.baml
+D:\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player.g.resources
+D:\CourseWork\Audio Player\Audio Player\obj\Release\Audio_Player.Properties.Resources.resources
+D:\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player.csproj.GenerateResource.Cache
+E:\CourseWork\Audio Player\Audio Player\bin\Release\bass.dll
+E:\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bassalac.dll
+E:\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bassflac.dll
+E:\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bassopus.dll
+E:\CourseWork\Audio Player\Audio Player\bin\Release\plugins\basswma.dll
+E:\CourseWork\Audio Player\Audio Player\bin\Release\plugins\basswv.dll
+E:\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bass_aac.dll
+E:\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bass_ac3.dll
+E:\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bass_ape.dll
+E:\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bass_mpc.dll
+E:\CourseWork\Audio Player\Audio Player\bin\Release\plugins\bass_tta.dll
+E:\CourseWork\Audio Player\Audio Player\bin\Release\Audio Player.exe.config
+E:\CourseWork\Audio Player\Audio Player\bin\Release\Audio Player.exe
+E:\CourseWork\Audio Player\Audio Player\bin\Release\Audio Player.pdb
+E:\CourseWork\Audio Player\Audio Player\bin\Release\Bass.Net.dll
+E:\CourseWork\Audio Player\Audio Player\bin\Release\EntityFramework.dll
+E:\CourseWork\Audio Player\Audio Player\bin\Release\EntityFramework.SqlServer.dll
+E:\CourseWork\Audio Player\Audio Player\bin\Release\MaterialDesignColors.dll
+E:\CourseWork\Audio Player\Audio Player\bin\Release\MaterialDesignThemes.Wpf.dll
+E:\CourseWork\Audio Player\Audio Player\bin\Release\MySql.Data.dll
+E:\CourseWork\Audio Player\Audio Player\bin\Release\System.Data.SQLite.dll
+E:\CourseWork\Audio Player\Audio Player\bin\Release\System.Data.SQLite.EF6.dll
+E:\CourseWork\Audio Player\Audio Player\bin\Release\System.Data.SQLite.Linq.dll
+E:\CourseWork\Audio Player\Audio Player\bin\Release\EntityFramework.xml
+E:\CourseWork\Audio Player\Audio Player\bin\Release\EntityFramework.SqlServer.xml
+E:\CourseWork\Audio Player\Audio Player\bin\Release\MaterialDesignThemes.Wpf.pdb
+E:\CourseWork\Audio Player\Audio Player\bin\Release\MaterialDesignThemes.Wpf.xml
+E:\CourseWork\Audio Player\Audio Player\bin\Release\MySql.Data.xml
+E:\CourseWork\Audio Player\Audio Player\bin\Release\System.Data.SQLite.xml
+E:\CourseWork\Audio Player\Audio Player\bin\Release\System.Data.SQLite.dll.config
+E:\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player.csprojResolveAssemblyReference.cache
+E:\CourseWork\Audio Player\Audio Player\obj\Release\Autorisation.g.cs
+E:\CourseWork\Audio Player\Audio Player\obj\Release\Load.g.cs
+E:\CourseWork\Audio Player\Audio Player\obj\Release\MainPlayer.g.cs
+E:\CourseWork\Audio Player\Audio Player\obj\Release\MainWindow.g.cs
+E:\CourseWork\Audio Player\Audio Player\obj\Release\Save.g.cs
+E:\CourseWork\Audio Player\Audio Player\obj\Release\App.g.cs
+E:\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player_Content.g.cs
+E:\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player_MarkupCompile.cache
+E:\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player_MarkupCompile.lref
+E:\CourseWork\Audio Player\Audio Player\obj\Release\App.baml
+E:\CourseWork\Audio Player\Audio Player\obj\Release\Autorisation.baml
+E:\CourseWork\Audio Player\Audio Player\obj\Release\Load.baml
+E:\CourseWork\Audio Player\Audio Player\obj\Release\MainPlayer.baml
+E:\CourseWork\Audio Player\Audio Player\obj\Release\MainWindow.baml
+E:\CourseWork\Audio Player\Audio Player\obj\Release\Save.baml
+E:\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player.g.resources
+E:\CourseWork\Audio Player\Audio Player\obj\Release\Audio_Player.Properties.Resources.resources
+E:\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player.csproj.GenerateResource.cache
+E:\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player.csproj.CoreCompileInputs.cache
+E:\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player.csproj.CopyComplete
+E:\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player.exe
+E:\CourseWork\Audio Player\Audio Player\obj\Release\Audio Player.pdb
